@@ -1,3 +1,10 @@
+![Made with R](https://img.shields.io/badge/Made%20with-R-blue)
+
+## Quick Start
+
+This project builds a simple but effective movie recommendation system using the MovieLens 10M dataset.  
+The final regularized movie + user effects model achieves an RMSE of **0.8648** on the untouched `final_holdout_test` set.
+
 # HarvardX Data Science Capstone – MovieLens 10M
 
 This repository contains my HarvardX Data Science Capstone project, using the MovieLens 10M dataset to build and evaluate a movie recommendation system.
